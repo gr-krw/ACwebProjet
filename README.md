@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-Ceci est un site web.
+# HEAD
+## Ceci est un site web.
 =======
-Il s'agit d'un site web.
->>>>>>> magic
+__Il s'agit d'un site web.__
